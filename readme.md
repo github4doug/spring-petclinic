@@ -1,4 +1,5 @@
 # DevOps CI/CD using Java Spring PetClinic Sample Application
+[See latest build](spring-petclinic-devops-dev.us-east-1.elasticbeanstalk.com)
 
 ## A DevOps Approach
 - A developer pushes code change to GitHub and triggers a new build
@@ -9,7 +10,7 @@
 - Docker container is deployed to the target environment where it is autoscaled
 - Any failing container is replaced automatically by Docker cluster management
 
-<img width="1042" alt="devopspipeline" src="https://github4doug.github.io/img/devopspipeline.png">
+<img alt="devopspipeline" src="https://github4doug.github.io/img/devopspipeline.png">
 
 # Contributing
 
