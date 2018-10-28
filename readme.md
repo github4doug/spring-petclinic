@@ -1,5 +1,5 @@
 # DevOps CI/CD using Java Spring PetClinic Sample Application
-[See latest build](spring-petclinic-devops-dev.us-east-1.elasticbeanstalk.com)
+[See latest build](https://spring-petclinic-devops-dev.us-east-1.elasticbeanstalk.com)
 
 ## A DevOps Approach
 - A developer pushes code change to GitHub and triggers a new build
