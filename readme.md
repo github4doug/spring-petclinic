@@ -10,7 +10,7 @@
 - Docker container is deployed to the target environment where it is autoscaled
 - Any failing container is replaced automatically by Docker cluster management
 
-<img alt="devopspipeline" src="https://github4doug.github.io/img/devopspipeline.png">
+<img alt="devopspipeline" src="https://github4doug.github.io/img/PortfolioDiagram-DevOps.png">
 
 # Contributing
 
